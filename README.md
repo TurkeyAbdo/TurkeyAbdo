@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman Altyeb Ahmed Alboshra</h1>
 <h3 align="center">An Ai Engineer and a passionate web developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turkeyabdo&label=Profile%20views&color=0e75b6&style=flat" alt="turkeyabdo" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turkeyabdo" alt="turkeyabdo" /></a> </p>
+
 - 🔭 I’m currently working on [Ambion](https://github.com/TurkeyAbdo/Ambion)
 
 - 🌱 I’m currently learning **Chinese, Ai as well**
